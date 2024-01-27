@@ -2,7 +2,7 @@ using System;
 using System.Security.Cryptography;
 using System.Text;
 
-class Program
+class ProgramQuestion2
 {
     static void Main()
     {
